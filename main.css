@@ -41,6 +41,9 @@ p, h2 {
 .box:hover p, .box:hover h2 {
   opacity: 1.5;
 }
+#modalHead {
+  font-size:1.25em;
+}
 
 #modalPar {
   opacity:1;
