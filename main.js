@@ -39,10 +39,12 @@ function displayResults(json) {
 function modalFiller(val, json) {
 	let modalTitle = document.getElementById('modalHead');
 	let modalPara = document.getElementById('modalPar');
+	let rating = document.getElementById('modalRate');
 	json.forEach(movie => {
 		if(val.title === movie.title){
 			modalTitle.innerText = val.title;
-			modalPara.innerText = val.description + '\n\n\n Rating: ' + val.rt_score;
+			modalPara.innerText = val.description
+			rating.innerText = 'Rating: ' + val.rt_score;
 			
 			console.log(val.url);
 		}

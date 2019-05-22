@@ -19,6 +19,9 @@
 body {
   background-color:black
 }
+#modalPar {
+  justify-content:left;
+}
 
 .box {
   opacity: 1;
@@ -40,8 +43,23 @@ p, h2 {
 }
 
 #modalPar {
-  color:black;
   opacity:1;
+  font-size:2em;
+}
+
+.modalBody {
+  height:60vh;
+  overflow-y:scroll;
+}
+
+.modalStyle {
+  background-color: rgba(0, 0, 0, 0.5);
+  color:white;
+  height:98vh;
+}
+
+#rating {
+  color:white;
 }
 
 .row {
@@ -55,7 +73,7 @@ p, h2 {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background:rgba(221, 221, 221, .7);
+  background:rgba(221, 221, 221, .25);
   border-radius:15px;
 }
 
