@@ -93,140 +93,140 @@ p, h2 {
 /* MOVIE IMAGES */
 /* Castle In The Sky */
 #movie1 {
-  background-image:url('assets/castleInTheSky.jpg');
+  background-image:url('../public/assets/castleInTheSky.jpg');
   background-size:cover;
   background-repeat:no-repeat;
 }
 
 /* Grave of Firflies */
 #movie2 {
-  background-image:url('assets/graveOfFireflies.jpg');
+  background-image:url('../public/assets/graveOfFireflies.jpg');
   background-size:cover;
   background-repeat:no-repeat;
 }
 
 /* My Neighbor Totoro */
 #movie3 {
-  background-image:url('assets/myNeighborTotoro.jpg');
+  background-image:url('../public/assets/myNeighborTotoro.jpg');
   background-size:cover;
   background-repeat:no-repeat;
 }
 
 /* Kiki's Delivery Service */
 #movie4 {
-  background-image:url('assets/kikisDeliveryService.jpeg');
+  background-image:url('../public/assets/kikisDeliveryService.jpeg');
   background-size:cover;
   background-repeat:no-repeat;
 }
 
 /* Only Yesterday */
 #movie5 {
-  background-image:url('assets/onlyYesterday.jpg');
+  background-image:url('../public/assets/onlyYesterday.jpg');
   background-size:cover;
   background-repeat:no-repeat;
 }
 
 /* Porco Rosso */
 #movie6 {
-  background-image:url('assets/porcoRosso.jpg');
+  background-image:url('../public/assets/porcoRosso.jpg');
   background-size:cover;
   background-repeat:no-repeat;
 }
 
 /* Pom Poko */
 #movie7 {
-  background-image:url('assets/ponPoko.jpg');
+  background-image:url('../public/assets/ponPoko.jpg');
   background-size:cover;
   background-repeat:no-repeat;
 }
 
 /* Whisper of the Heart */
 #movie8 {
-  background-image:url('assets/whisperOfTheHeart.jpg');
+  background-image:url('../public/assets/whisperOfTheHeart.jpg');
   background-size:cover;
   background-repeat:no-repeat;
 }
 
 /* Princess Mononoke */
 #movie9 {
-  background-image:url('assets/princessMononoke.jpg');
+  background-image:url('../public/assets/princessMononoke.jpg');
   background-size:cover;
   background-repeat:no-repeat;
 }
 
 /* My Neighbors the Yamadas */
 #movie10 {
-  background-image:url('assets/myNeighborsTheYamadas.jpg');
+  background-image:url('../public/assets/myNeighborsTheYamadas.jpg');
   background-size:cover;
   background-repeat:no-repeat;
 }
 
 /* Spirited Away */
 #movie11 {
-  background-image:url('assets/spiritedAway.jpg');
+  background-image:url('../public/assets/spiritedAway.jpg');
   background-size:cover;
   background-repeat:no-repeat;
 }
 
 /* The Cat Returns */
 #movie12 {
-  background-image:url('assets/theCatReturns.jpg');
+  background-image:url('../public/assets/theCatReturns.jpg');
   background-size:cover;
   background-repeat:no-repeat;
 }
 
 /* Howl's Moving Castle */
 #movie13 {
-  background-image:url('assets/howlsMovingCastle.jpg');
+  background-image:url('../public/assets/howlsMovingCastle.jpg');
   background-size:cover;
   background-repeat:no-repeat;
 }
 
 /* Tales from Earthsea */
 #movie14 {
-  background-image:url('assets/talesFromEartsea.jpg');
+  background-image:url('../public/assets/talesFromEartsea.jpg');
   background-size:cover;
   background-repeat:no-repeat;
 }
 
 /* Ponyo */
 #movie15 {
-  background-image:url('assets/ponyo.jpg');
+  background-image:url('../public/assets/ponyo.jpg');
   background-size:cover;
   background-repeat:no-repeat;
 }
 
 /* Arriety */
 #movie16 {
-  background-image:url('assets/arriety.jpg');
+  background-image:url('../public/assets/arriety.jpg');
   background-size:cover;
   background-repeat:no-repeat;
 }
 
 /* From Up on Poppy Hill */
 #movie17 {
-  background-image:url('assets/fromUpOnPoppyHill.jpg');
+  background-image:url('../public/assets/fromUpOnPoppyHill.jpg');
   background-size:cover;
   background-repeat:no-repeat;
 }
 
 /* The Wind Rises */
 #movie18 {
-  background-image:url('assets/theWindRises.jpg');
+  background-image:url('../public/assets/theWindRises.jpg');
   background-size:cover;
   background-repeat:no-repeat;
 }
 
 /* The Tale of Princess Kaguya */
 #movie19 {
-  background-image:url('assets/theTaleOfPrincessKaguya.jpg');
+  background-image:url('../public/assets/theTaleOfPrincessKaguya.jpg');
   background-size:cover;
   background-repeat:no-repeat;
 }
 
 /* When Marnie was There */
 #movie20 {
-  background-image:url('assets/whenMarnieWasThere.jpg');
+  background-image:url('../public/assets/whenMarnieWasThere.jpg');
   background-size:cover;
   background-repeat:no-repeat;
 }
